@@ -1,1 +1,1 @@
-# Auto-detect Python version from requirements.txt
+python-3.12.7
